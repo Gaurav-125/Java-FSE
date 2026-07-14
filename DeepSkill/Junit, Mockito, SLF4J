@@ -1,0 +1,3 @@
+This module focuses on the concepts of Test-driven development and tools used for it. The features
+of tools like Junit and Mockito for unit testing, mock the dependencies to complete the unit testing.
+Basics of automation testing tools and logging framework.
